@@ -29,11 +29,11 @@ I am a passionate **BSc (Hons) in Software Engineering** student at **CINEC Camp
 
 ---
 
-### 🌱 What I'm Up To
-* 🔭 **Working on:** Strengthening my core logic through **C** and **Python** projects.
-* 🎨 **Designing:** Clean, responsive web interfaces using **HTML** and **CSS**.
-* 📚 **Reading:** Best practices in Clean Code and Software Testing.
-* 💬 **Ask me about:** My transition from banking operations to tech!
+###  What I'm Up To
+*  **Working on:** Strengthening my core logic through **C** and **Python** projects.
+*  **Designing:** Clean, responsive web interfaces using **HTML** and **CSS**.
+*  **Reading:** Best practices in Clean Code and Software Testing.
+*  **Ask me about:** My transition from banking operations to tech!
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [https://www.linkedin.com/in/denuwankaluarachchi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
